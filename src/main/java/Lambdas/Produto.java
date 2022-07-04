@@ -1,5 +1,8 @@
 package Lambdas;
 
+import lombok.ToString;
+
+@ToString
 public class Produto {
 
     final String nome;
