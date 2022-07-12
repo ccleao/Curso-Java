@@ -1,4 +1,4 @@
-package Streams;
+package Excecao.personalizadaA;
 
 import lombok.EqualsAndHashCode;
 import lombok.ToString;
@@ -9,7 +9,7 @@ public class Aluno {
 
     public String name;
     public double nota;
-    int presenca;
+    public int presenca;
 
 
     public Aluno(String name, double nota, int presenca) {
